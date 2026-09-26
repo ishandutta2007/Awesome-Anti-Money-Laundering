@@ -53,9 +53,9 @@ The table below lists top enterprise Anti-Money Laundering platforms ranked by *
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore production-ready open-source libraries, monitoring engines, and data pipelines sorted by **GitHub Stars (Descending)**:
+Explore production-ready open-source libraries, monitoring engines, and data pipelines sorted by **GitHub_Stars (Descending)**:
 
-| Repo & Link | Star Count | Language / Stack | Core Capabilities & Overview |
+| Repo & Link | Stars_Count | Language / Stack | Core Capabilities & Overview |
 | :--- | :---: | :---: | :--- |
 | 🛡️ **[OpenSanctions](https://github.com/opensanctions/opensanctions)** <br>[![OpenSanctions Stars](https://img.shields.io/github/stars/opensanctions/opensanctions?style=social&color=white)](https://github.com/opensanctions/opensanctions/stargazers) | **812** | `Python` | International open database of sanctions list data, PEP lists, and persons of interest with ETL crawlers. |
 | 🧠 **[Marble](https://github.com/checkmarble/marble)** <br>[![Marble Stars](https://img.shields.io/github/stars/checkmarble/marble?style=social&color=white)](https://github.com/checkmarble/marble/stargazers) | **602** | `TypeScript` | Real-time decision engine for fraud prevention and AML transaction monitoring with an investigator UI. |
@@ -88,7 +88,7 @@ Contributions are highly encouraged to keep this directory up-to-date!
 
 1. 🍴 **Fork** this repository.
 2. 📝 **Add or update** entries in `README.md` following the table structure.
-3. 🔎 Ensure all company figures, star badges, and links remain factual and working.
+3. 🔎 Ensure all company figures, Stars_Badges, and links remain factual and working.
 4. 🚀 **Submit a Pull Request (PR)** with a clear title and description.
 
 ---
